@@ -26,5 +26,4 @@ int main (){
     } else{
         cout<<"good evening";
     }
-    
 }
