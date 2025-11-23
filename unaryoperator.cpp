@@ -22,5 +22,4 @@ int main() {
     cout<<"b= "<<b<<endl;
 	cout<<"a= "<<a<<endl;
 
-
 }
